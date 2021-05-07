@@ -17,9 +17,11 @@ https://github.com/pafuhana1213/LookingGlassAudioVisualizer/releases/
 # 操作方法 How to play
 1キー 再生エフェクトの変更  
 2キー 再生BGMの変更  
+ESC  終了
 
 1 key:change effect  
-2 Key:change playing music
+2 Key:change playing music  
+ESC:exit
 
 # 使用アセット Assets
 https://www.unrealengine.com/marketplace/en-US/product/niagaraaudiovisualizer  

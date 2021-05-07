@@ -18,7 +18,7 @@ https://github.com/pafuhana1213/LookingGlassAudioVisualizer/releases/
 1キー 再生エフェクトの変更  
 2キー 再生BGMの変更  
 
-1 key:change effect
+1 key:change effect  
 2 Key:change playing music
 
 # 使用アセット Assets

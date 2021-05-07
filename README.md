@@ -21,6 +21,10 @@ https://github.com/pafuhana1213/LookingGlassAudioVisualizer/releases/
 1 key:change effect
 2 Key:change playing music
 
+# 使用アセット Assets used
+https://www.unrealengine.com/marketplace/en-US/product/niagaraaudiovisualizer  
+https://www.unrealengine.com/marketplace/en-US/product/runtime-audio-importer
+
 
 # 作者 Author
 @pafuhana1213  

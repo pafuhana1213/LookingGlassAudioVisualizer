@@ -23,7 +23,8 @@ https://github.com/pafuhana1213/LookingGlassAudioVisualizer/releases/
 
 # 使用アセット Assets
 https://www.unrealengine.com/marketplace/en-US/product/niagaraaudiovisualizer  
-https://www.unrealengine.com/marketplace/en-US/product/runtime-audio-importer
+https://www.unrealengine.com/marketplace/en-US/product/runtime-audio-importer  
+https://www.unrealengine.com/marketplace/en-US/product/blueprint-file-sdk
 
 
 # 作者 Author

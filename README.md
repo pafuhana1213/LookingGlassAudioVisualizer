@@ -2,9 +2,9 @@
 LookingGlassPortraitで気持ちアゲアゲで音楽聞く用に作ってみました  
 I made this for listening to music with Looking Glass Portrait
 
-LookingGlassAudioVisualizer\LookingGlass\Audios　内に mp3, flac, wavファイルを格納すれば  
+LookingGlassAudioVisualizer/LookingGlass/Audios 内に mp3, flac, wavファイルを格納すれば  
 自動的に読み取ってプレイリストに追加します。たぶん  
-If you store mp3, flac, wav files in LookingGlassAudioVisualizer\LookingGlass\Audios,   
+If you store mp3, flac, wav files in LookingGlassAudioVisualizer/LookingGlass/Audios,   
 it will be automatically read and added to the playlist..maybe.  
 
 色々雑なのでクラッシュするかもです。ごめんなさい  
